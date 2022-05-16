@@ -1,3 +1,5 @@
+package components;
+
 import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.By;
